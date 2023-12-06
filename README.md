@@ -1,4 +1,4 @@
-![score](public/power-of-g-man.PNG)
+![score](https://github.com/AlphaCodder/power-of-gman/blob/main/public/power-of-g-man.PNG)
 
 # Geektrust Backend Challenge
 
